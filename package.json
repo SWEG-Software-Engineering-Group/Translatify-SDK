@@ -1,0 +1,26 @@
+{
+  "name": "translatify-sdk",
+  "version": "1.0.0",
+  "description": "Library for using texts saved using the Translatify app in any webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWEG-Software-Engineering-Group/Translatify-SDK.git"
+  },
+  "keywords": [
+    "Translatify",
+    "SDK"
+  ],
+  "author": "SWEG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWEG-Software-Engineering-Group/Translatify-SDK/issues"
+  },
+  "homepage": "https://github.com/SWEG-Software-Engineering-Group/Translatify-SDK#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
